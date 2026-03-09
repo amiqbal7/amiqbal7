@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Iqbal 👋</h1>
+<h1 align="center">Hi, I'm amiqbal 👋</h1>
 <h3 align="center">Fullstack Developer · Laravel · React · Indonesia 🇮🇩</h3>
 
 <br/>
@@ -32,7 +32,6 @@
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
